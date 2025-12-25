@@ -1,0 +1,46 @@
+# OSX
+.DS_Store
+
+# Expo
+.expo/
+dist/
+web-build/
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ruby
+.direnv/
+
+# Env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Misc
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+
+# Debug
+*.log
+
+# Build artifacts
+android/
+ios/
+.next/
+out/
+build/
